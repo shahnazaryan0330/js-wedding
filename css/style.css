@@ -1,40 +1,40 @@
 @font-face {
     font-family: 'Kugile';
-    src: url('/fonts/kugile.regular.ttf');
+    src: url('../fonts/kugile.regular.ttf');
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('/fonts/Montserratarm-Light.otf');
+    src: url('../fonts/Montserratarm-Light.otf');
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('/fonts/Montserratarm-Regular.otf');
+    src: url('../fonts/Montserratarm-Regular.otf');
     font-weight: 400;
 }
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('/fonts/Montserratarm-Medium.otf');
+    src: url('../fonts/Montserratarm-Medium.otf');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'Huninn';
-    src: url('/fonts/Huninn-Regular.ttf');
+    src: url('../fonts/Huninn-Regular.ttf');
     font-weight: 500;
 }
 
 @font-face {
     font-family: 'Great Vibe';
-    src: url('/fonts/GreatVibes-Regular.ttf');
+    src: url('../fonts/GreatVibes-Regular.ttf');
 }
 
 @font-face {
     font-family: 'Maginia';
-    src: url('/fonts/Maginia.otf');
+    src: url('../fonts/Maginia.otf');
 }
 
 * {
@@ -119,7 +119,7 @@ p {
     max-width: 640px;
     height: 677px;
     border-radius: 16px;
-    background-image: url('/img/IMG_2578.webp');
+    background-image: url('../img/IMG-2578.webp');
     background-size: 150%;
     background-position: 62% 28%;
     filter: grayscale(1) brightness(0.8);
@@ -177,7 +177,7 @@ p {
     height: 500px;
     margin-bottom: 24px;
     border-radius: 25px;
-    background-image: url('/img/IMG_2580.webp');
+    background-image: url('../img/IMG-2580.webp');
     background-size: 120%;
     background-position: 94% 42%;
     filter: grayscale(.7) brightness(1);
@@ -227,7 +227,7 @@ p {
 .calendar {
     width: 100%;
     height: 350px;
-    background-image: url('/img/calendar.svg');
+    background-image: url('../img/calendar.svg');
     background-repeat: no-repeat;
     background-position: center top;
 }
@@ -249,7 +249,7 @@ p {
 .img2-ico {
     background-size: 120%;
     background-position: 56% 38%;
-    background-image: url('/img/IMG_2581.webp');
+    background-image: url('../img/IMG-2581.webp');
     filter: grayscale(.7) brightness(1);
 }
 
@@ -293,7 +293,7 @@ svg {
     width: 252px;
     height: 233px;
     margin-bottom: 40px;
-    background-image: url('/img/church.svg');
+    background-image: url('../img/church.svg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -302,7 +302,7 @@ svg {
     width: 252px;
     height: 160px;
     margin-bottom: 40px;
-    background-image: url('/img/restaurant.svg');
+    background-image: url('../img/restaurant.svg');
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -363,7 +363,7 @@ svg {
     border-radius: 25px;
     background-size: 120%;
     background-position: 56% 38%;
-    background-image: url('/img/IMG_2579.webp');
+    background-image: url('../img/IMG-2579.webp');
     filter: grayscale(.7) brightness(1);
 }
 
