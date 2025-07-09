@@ -8,7 +8,7 @@ openingBtn.addEventListener('click', () => {
     document.querySelector('.opening')
         .classList.add('openingAnim')
 
-    const audio = new Audio('./aram-asatryan-caxikner.mp3')
+    const audio = new Audio('./playback.mp3')
     audio.volume = 0.1
     audio.play()
 
